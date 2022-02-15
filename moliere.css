@@ -30,7 +30,9 @@
 .name:hover {
     border: 1px solid #ae92e2;
     padding: 10px;
-    text-shadow:2px 3px 5px rgb(32, 161, 75)
+    text-shadow:2px 3px 5px rgb(32, 161, 75);
+    color: transparent;
+    
 }
 
 
