@@ -26,3 +26,23 @@
 .VAL{
     color: rgb(69, 22, 196);
 }
+
+.table,
+th
+{
+    color:rgb(60, 198, 223);
+    border: solid slategray;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 500px ;
+    padding: 5px;
+    background-color:rgb(15, 151, 151);
+}
+td{
+    color:rgb(207, 29, 97);
+    border: 200px black;
+    text-align: center;
+    margin: 50px;
+    padding: 5px;
+    background-color: rgb(211, 126, 22);
+}
